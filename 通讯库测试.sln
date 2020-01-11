@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "通讯库测试", "通讯库测试\通讯库测试.csproj", "{283D7C8A-29DC-4DC2-9C41-CAE17C13418A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{283D7C8A-29DC-4DC2-9C41-CAE17C13418A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283D7C8A-29DC-4DC2-9C41-CAE17C13418A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283D7C8A-29DC-4DC2-9C41-CAE17C13418A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283D7C8A-29DC-4DC2-9C41-CAE17C13418A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A09C7E04-3EBF-40AC-9788-12D8836B40D0}
+	EndGlobalSection
+EndGlobal
