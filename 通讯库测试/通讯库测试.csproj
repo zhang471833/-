@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="BaseSocketComm.cs" />
     <Compile Include="BaseComm.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="IComm.cs" />
     <Compile Include="TcpComm.cs" />
     <Compile Include="Program.cs" />
